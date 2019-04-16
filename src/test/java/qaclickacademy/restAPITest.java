@@ -8,6 +8,8 @@ public class restAPITest {
 	public void postJira()
 	{
 		System.out.println("postJira");
+		System.out.println("postJira git example1");
+		System.out.println("postJira git example2");
 	}
 	
 	@Test
